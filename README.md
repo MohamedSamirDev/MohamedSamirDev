@@ -1,6 +1,29 @@
-# 💫 About Me:
-<h2>🙋‍♂️ Hi, I'm Mohamed Samir<h2><br><br>A passionate Backend Developer from Egypt 🇪🇬, currently on a journey to master the art of building robust, scalable, and real-world systems using .NET.<br><br>🔭 I'm currently working on...<br>Building backend projects with .NET / ASP.NET Core to strengthen my skills and transform ideas into real-world applications.<br><br>🌱 I'm currently learning...<br>Diving deep into ASP.NET Core, C#, Entity Framework Core, SQL Server, and RESTful API design — improving one concept at a time 🚀<br><br>👯 I'm looking to collaborate on...<br>Beginner-friendly .NET backend projects or open-source systems where I can contribute, learn, and grow with other developers.<br><br>🤔 I'm looking for help with...<br>Best practices in clean architecture, design patterns, and database optimization — always open to learning from experienced engineers.<br><br>💬 Ask me about...<br>C# fundamentals  <br>ASP.NET Core basics  <br>RESTful API development  <br>Starting a backend journey from scratch  <br><br>⚡ Fun fact:<br>I enjoy finding the story behind every bug and fixing it the right way.
 
+<div align="center">
+  <h1>🙋‍♂️ Mohamed Samir</h1>
+</div>
+
+A passionate **Backend Developer** from Egypt 🇪🇬, currently on a journey to master the art of building robust, scalable, and real-world systems using **.NET**.
+
+---
+
+🔭 **I'm currently working on...**
+Building backend projects with .NET / ASP.NET Core to strengthen my skills and transform ideas into real-world applications.
+
+🌱 **I'm currently learning...**
+Diving deep into ASP.NET Core, C#, Entity Framework Core, SQL Server, and RESTful API design — improving one concept at a time 🚀
+
+👯 **I'm looking to collaborate on...**
+Beginner-friendly .NET backend projects or open-source systems where I can contribute, learn, and grow with other developers.
+
+🤔 **I'm looking for help with...**
+Best practices in clean architecture, design patterns, and database optimization — always open to learning from experienced engineers.
+
+💬 **Ask me about...**
+C# fundamentals • ASP.NET Core basics • RESTful API development • Starting a backend journey from scratch
+
+⚡ **Fun fact:**
+I enjoy finding the story behind every bug and fixing it the right way.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/18wt3qSAyd/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abo.sam_ir/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-samir-4014a1311) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mosamirdev@gmail.com  ) 
